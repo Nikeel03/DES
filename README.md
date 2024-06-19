@@ -1,4 +1,8 @@
-# DES Matlab Implementation
+# DES Matlab Lab Implementation
+## What is DES?
+Cryptography is the science of communication security and is essential to protecting the integrity of sensitive data. DES is the fundamental basic symmetric-key block cipher that has been used for decades. Symmetric cipher refers to the cipher using the same key for encryption and decryption. DES is an old encryption and decryption method that revolutionised cryptography when brought to fruition. At the time, commercial cryptography was not reliable or safe. Thus, a standard was needed. Decades later, DES is still useful in modern cryptography because it provides insights into basic encryption concepts and acts as a standard by which to compare more recent cryptographic algorithms. Matlab is used in this research to investigate DES implementation and experiment attributes of DES, such as the Avalanche effect. Through analysis and the development of a new model, the laboratory aims to shed light on how DES functions. The intention is to explore its advantages and disadvantages as well as its applicability in the context of modern cryptographic standards via testing and validity checks.
+
+
 ## Overview
 The Data Encryption Algorithm (DEA) and Data Decryption Algorithm (DDA) were developed using a total of two functions and two .m files, each responsible for the encryption and decryption algorithms, respectively.
 
